@@ -1,0 +1,32 @@
+[
+  {
+    "name": "USD",
+    "rate": 1,
+    "upOrDown": 0,
+    "count": 0
+  },
+  {
+    "name": "AUD",
+    "rate": 0.68,
+    "upOrDown": 0,
+    "count": 0
+  },
+  {
+    "name": "SGD",
+    "rate": 0.71,
+    "upOrDown": 0,
+    "count": 0
+  },
+  {
+    "name": "EUR",
+    "rate": 1,
+    "upOrDown": 0,
+    "count": 0
+  },
+  {
+    "name": "CNY",
+    "rate": 0.14,
+    "upOrDown": 0,
+    "count": 0
+  }
+]
